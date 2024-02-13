@@ -20,5 +20,6 @@ public class Product {
     private String description;
     private double unitaryPrice;
     private Integer quantity;
+   
     
 }
